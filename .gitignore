@@ -1,3 +1,4 @@
 *.pickle
 *.model
+*.swp
 !.gitignore
